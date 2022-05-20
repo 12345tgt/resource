@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T11:46:05.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" version="18.0.7" etag="og91Y_DXQaO7MIuoXMxf" type="github"><diagram id="LQQwEagVROsm78Fbj5Xx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-20T11:47:53.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="ZD_c1zLjPNxA9fALGTva" version="18.0.7" type="github">
+  <diagram id="LQQwEagVROsm78Fbj5Xx" name="第 1 页">
+    <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-EAJpq3KGcWOM-xDJBi-2" target="T-EAJpq3KGcWOM-xDJBi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;将二维图片变成三维模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="T-EAJpq3KGcWOM-xDJBi-4" target="T-EAJpq3KGcWOM-xDJBi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;每个楼层创建群组并命名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="T-EAJpq3KGcWOM-xDJBi-6" target="T-EAJpq3KGcWOM-xDJBi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;纹理贴图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;模型移至坐标系中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-EAJpq3KGcWOM-xDJBi-10" target="T-EAJpq3KGcWOM-xDJBi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-EAJpq3KGcWOM-xDJBi-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;使用实体工具细化模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
